@@ -2,16 +2,19 @@
 <p align = 'right'>BY PH </p>
 # 今日情绪
 
-https://eservices.mas.gov.sg/cisnetportal/jsp/list.jsp?d-49653-o=1&d-49653-p=1&d-49653-s=0
 
 今天的股市让我自闭，太沉重了。
 上午开盘一小时内，黑色星期一，盯/重仓的票基本都跌了，而且还是大跌。
 
-天风证券跌7%，直接爆了我的心里仓；跟着游资玩，肉没吃着，净吃面了。
-有色大跌，碳酸锂的两位大哥（天齐锂业 and 赣锋锂业）平均跌了7%；
-通信电子大跌，兆易创新近乎跌停，烽火通信跌一半。
-医药带头涨，唯一的慰藉。
-消费又开始带节奏。
+>天风证券跌7%，直接爆了我的心里仓；跟着游资玩，肉没吃着，净吃面了。
+>
+>有色大跌，碳酸锂的两位大哥（天齐锂业 and 赣锋锂业）平均跌了7%；
+>
+>通信电子大跌，兆易创新近乎跌停，烽火通信跌一半。
+>
+>医药带头涨，唯一的慰藉。
+>
+>消费又开始带节奏。
 
 # # Betting and Result
 1. 周五眼见大盘狂跌 -2%，我反手一个加仓医药，想着医药今日有点超跌，再加上近几周都没怎么涨，赌一个小轮动
@@ -28,52 +31,16 @@ https://eservices.mas.gov.sg/cisnetportal/jsp/list.jsp?d-49653-o=1&d-49653-p=1&d
 
 
 # Some Thoughs in Today\`s Mind
-有很多要确定的事情啊
+有很多要确定的事情啊，
 
-1. 建立自己的交易系统
-2. 未来可以思考的event
+1. 建立自己的交易系统，可选参数
+  1. 基于基本面/情绪面
+  2. 行业属性：消费/周期
+  3. 大盘现状：
+  4. 持有时间：
+  5. 股价形态：
 
-两种玩法，跟游资玩怎么玩
-基本面玩怎么玩
-判断交易属性
-
-判断大盘现状以决定持有时间
-思考 消费和周期的balance。
-节日前 交易惨淡？节日后有所好转?可否验证一下
-
-#
-一天之内的买点，怎么判断，如何买到
-最高点的百分之几是可以买得到的
-
-消费可以等跌长期持有
-
-周期得经常换手卖掉
-
-消费
-产业周期
-宏观周期
-调控周期
-
-CHRIS
-1. Exam issue, start to work from 5.21
-2. check whether I am doing it right
-  1. check ddnk, call those client who has not submit any document
-  2. deal with replied email
-2. so far how I feel?
-  1. Team members are helpful and friendly, 
-  2. Understand the digital sale daily Process, structure
-  2. The thing I do now, becaking phone call, learning plan, whole process 
-
-3. what is your expectation for this role?
-3. How will you suggest that i will grow from it?
- which way I can grow?
-
-
-真的像赌博，短线可不就是赌，博傻也是赌，如果要赌，怎么玩？
-越来越像赌博，短期赌行业轮动，政策利好，
-长期赌个股发展，
-短期真的痛苦，说tm巨跌就巨跌了
-有色持续跌了太久了、
-
-装死是唯一的路
+2. event study:节日前 交易惨淡？节日后有所好转?可否验证一下
+3. 买点 backtest ： 可否用 high * ratio 确定最佳买点
+4. 短线就是赌博，赌博也要赌得明明白白
 
