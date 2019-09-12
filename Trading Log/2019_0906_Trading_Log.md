@@ -1,4 +1,4 @@
-# 6th Thur, Sep 2019 
+# 6th Fri, Sep 2019 
 <p align = 'right'>BY PH </p>
 
 # 行情
